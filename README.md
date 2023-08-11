@@ -1,7 +1,8 @@
 <div align="center">
     <h2>Hello!</h2>   
     <a href="https://www.linkedin.com/in/daniel-wzr" target="_blank"><img width="11%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    [![Contributors][contributors-shield]][contributors-url]
+    <a href="https://linkwizer.vercel.app/" target="_blank"><img width="11%" src="https://cdn-icons-png.flaticon.com/512/3858/3858629.png"></a>
+    
 </div>
    <!-- PAINÉIS -->
  <!--    <a href="https://www.github.com/danielwzr">
