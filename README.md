@@ -1,7 +1,7 @@
 <div align="center">
     <h2>Hello!</h2>   
-    <a href="https://www.linkedin.com/in/daniel-wzr" target="_blank" style="height:32px"><img width="11%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://linkwizer.vercel.app/" target="_blank" style="height:32px"><img width="11%" src="https://img.shields.io/badge/Links-7717b5?style=for-the-badge&logo=crayon&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/daniel-wzr" target="_blank"><img  style="height:32px" width="11%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://linkwizer.vercel.app/" target="_blank" ><img style="height:32px" width="11%" src="https://img.shields.io/badge/Links-7717b5?style=for-the-badge&logo=crayon&logoColor=white"></a>
     
 </div>
    <!-- PAINÉIS -->
