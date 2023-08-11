@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hello!</h2>   
-    <a href="https://www.linkedin.com/in/daniel-wzr" target="_blank"><img  style="height:100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a  target="_blank" href="https://www.linkedin.com/in/daniel-wzr"><img  style="height:100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://linkwizer.vercel.app/" target="_blank" ><img style="height:100%" src="https://img.shields.io/badge/Links-7717b5?style=for-the-badge&logo=crayon&logoColor=white"></a>
     
 </div>
